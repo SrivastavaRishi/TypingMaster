@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TypingMaster/static/css/main.4b7da244.chunk.css",
+    "main.js": "/TypingMaster/static/js/main.82cf9b74.chunk.js",
+    "main.js.map": "/TypingMaster/static/js/main.82cf9b74.chunk.js.map",
+    "runtime-main.js": "/TypingMaster/static/js/runtime-main.b06f5291.js",
+    "runtime-main.js.map": "/TypingMaster/static/js/runtime-main.b06f5291.js.map",
+    "static/js/2.a0fdb9dd.chunk.js": "/TypingMaster/static/js/2.a0fdb9dd.chunk.js",
+    "static/js/2.a0fdb9dd.chunk.js.map": "/TypingMaster/static/js/2.a0fdb9dd.chunk.js.map",
+    "index.html": "/TypingMaster/index.html",
+    "static/css/main.4b7da244.chunk.css.map": "/TypingMaster/static/css/main.4b7da244.chunk.css.map",
+    "static/js/2.a0fdb9dd.chunk.js.LICENSE.txt": "/TypingMaster/static/js/2.a0fdb9dd.chunk.js.LICENSE.txt",
+    "static/media/hero.96e141d3.png": "/TypingMaster/static/media/hero.96e141d3.png",
+    "static/media/logo.904ac8fd.png": "/TypingMaster/static/media/logo.904ac8fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b06f5291.js",
+    "static/js/2.a0fdb9dd.chunk.js",
+    "static/css/main.4b7da244.chunk.css",
+    "static/js/main.82cf9b74.chunk.js"
+  ]
+}
